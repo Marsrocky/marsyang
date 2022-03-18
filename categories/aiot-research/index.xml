@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIoT Research on Jianfei Yang</title>
+    <link>https://marsyang.github.io/categories/aiot-research/</link>
+    <description>Recent content in AIoT Research on Jianfei Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marsyang.github.io/categories/aiot-research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://marsyang.github.io/publications/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.github.io/publications/</guid>
+      <description>For a full list of publications, please visit my Google Scholar.
+  Book Chapters  Deep Learning and Unsupervised Domain Adaptation for WiFi-based Sensing
+Jianfei Yang, Han Zou, Lihua Xie and Costas J. Spanos
+In Generalization With Deep Learning: For Improvement On Sensing Capability, World Scientific, 2021  Journal Publications   IOT-J EfficientFi: Towards Large-Scale Lightweight WiFi Sensing via CSI Compression
+Jianfei Yang, Xinyan Chen, Han Zou, Dazhuo Wang, Lihua Xie</description>
+    </item>
+    
+  </channel>
+</rss>

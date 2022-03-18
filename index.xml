@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Jianfei Yang on Jianfei Yang</title>
+    <link>https://marsyang.github.io/</link>
+    <description>Recent content in Dr. Jianfei Yang on Jianfei Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marsyang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Group</title>
+      <link>https://marsyang.github.io/group/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.github.io/group/</guid>
+      <description> I am interesed to supervise the following PhD topics:
+ Deep learning for smart sensing and affective computing Transfer learning and domain adaptation algorithms for robust data-efficient sensing Multimodal learning for IoT sensor fusion and their applications  The students should have basic knowledge on statistic learning and deep learning, and be familiar with Python programming. Pytorch library is highly preferred in our research team.
+ Ph.D. Students  Wang Dazhuo (WiFi-based Human Activity Recognition Across Environments) Huang He (WiFi-based Sensing and Localization) Qian Hanjie (AI-aided Structural Health Monitoring) Cao Haozhi (Domain Adaptation for Multimodal Semantic Segmentation)   MSc Research Projects  Deng Lang - WiFi and Camera Fusion for Smart Sensing Zhou Yunjiao - Multimodal Learning for Road Segmentation in Autonomous Driving Yang Zhiyuan - Point Cloud Model Compression Shi Mengqi - Adversarial Learning for Multimodal Segmentation Hu Jiaxing - WiFi-based Respiration Detection Lyu Qi - Real-time WiFi Sensing System   Undergraduate (Final Year Project)  Chen Xinyan (Multimodal Learning) Mao Jiangtian (Data-efficient Learning for Smart Sensing) Pan Xingmeng (Visualization Dashboard for Smart Sensing)  </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://marsyang.github.io/publications/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.github.io/publications/</guid>
+      <description>For a full list of publications, please visit my Google Scholar.
+  Book Chapters  Deep Learning and Unsupervised Domain Adaptation for WiFi-based Sensing
+Jianfei Yang, Han Zou, Lihua Xie and Costas J. Spanos
+In Generalization With Deep Learning: For Improvement On Sensing Capability, World Scientific, 2021  Journal Publications   IOT-J EfficientFi: Towards Large-Scale Lightweight WiFi Sensing via CSI Compression
+Jianfei Yang, Xinyan Chen, Han Zou, Dazhuo Wang, Lihua Xie</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://marsyang.github.io/award/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.github.io/award/</guid>
+      <description>  I am keen on participating academic and industrial AI challenges to deal with theoretical or real-world data problems.
+  Awards in Academia  First place, ICCV-21 Masked Face Recognition Challenge First place, IEEE CVPR 2019 UG2+ Challenge - Zero-shot Detection in Rain (Award: $60K) First place, PHI-Net Challenge by Pacific Earthquake Engineering Research Center, Los Angelos, USA Third place, IEEE CVPR 2020 EmotionNet Challenge First place, ACM ICMI 2018 Emotion Recognition Challenge, Colorado, USA NTU Presidential Postdoctoral Fellowship Award (12/1000+) NTU EEE Best Thesis Award (2/400+)  Awards for Industrial Challenges  First place, Alibaba A-tech Challenge 2021 - Transaction Fraud Detection First place, DIGIX Global AI Challenge - Product Image Retrieval (Award: $35K) First place, Xinye Cup 2021 - Intelligent Retail AI Solution (Award: $10K) First place, JD Global Data Challenge 2017 - Livestock face recognition (Award: $100K) First place, HUAWEI Garbage Recognition Challenge (Award: $35K) First place, Buildathon of Singapore by Ministry of Education Second place, Microsoft Imagine Cup 2017 (2/782) First place, China Mobile Internet of Things Hackathons (Award: $15K) Third place, National AI Challenge - Person Re-identification (Award: $35K) First place, Microsoft Beauty of Programming (BoP-16) Challenge by Microsoft Research Asia/IEEE (1/20000+) First place, Humanoid Robotics Hackathon by ALDEBARAN  </description>
+    </item>
+    
+    <item>
+      <title>Patents</title>
+      <link>https://marsyang.github.io/patents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.github.io/patents/</guid>
+      <description> US Patents  WO2020037313 - Device-Free Human Identification and Device-Free Gesture Recognition WO2019226910A1 - Unsupervised WiFi-Enabled Device-User Association for Personalized Location-based Service   Chinese Patents  CN109359539B - Attention Assessment Method and Device, Terminal Equipment and Computer Readable Storage Medium CN108344416A - WiFi-based Localization Method based on Cartographic Information Auto-Matching Target   </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://marsyang.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.github.io/research/</guid>
+      <description>Research Interests My Research mainly focuses on Artificial Intelligence of Things (AIoT), where the state-of-the-art AI models are proposed and implemented in the edge computing and enables everything interconnected. Broadly speaking, I study how AI models empower IoT-enabled edge devices to sense the environment (i.e. Smart Sensing), how AI models are efficiently deployed in resource-restrained devices (i.e. Efficient AI Systems), and how multimodal data from IoT sensors can be represented and engineered to support decision-making (i.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://marsyang.github.io/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.github.io/services/</guid>
+      <description> Professional Appointments  Presidential Postdoctoral Fellow, Principal Investigator, Nanyang Technological University, 2021-now Senior Research Engineer, BEARS, University of California, Berkeley, 2021-2022 Guest Lecturer, Nanyang Technological University, 2021-2022 Adjunct Lecturer, Singapore Institute of Technology, 2021-2022   Conference PC Member  IEEE The Conference on Computer Vision and Pattern Recognition (CVPR) 2022, 2021 International Conference on Machine Learning (ICML) 2022 European Conference on Computer Vision (ECCV) 2022 The International Conference on Computer Vision (ICCV) 2021 AAAI Conference on Artificial Intelligence (AAAI) 2020, 2021 IEEE Wireless Communications and Networking Conference (WCNC) 2021, 2022   Conference Organizer  IEEE CVPR 2022, 5th UG2+ Prize Challenge IJCAI 2021, 3nd International Workshop on &amp;ldquo;Deep Learning for Human Activity Recognition&amp;rdquo;   Journal Invited Reviewer  Guest Editor, MDPI Remote Sensing Reviewer, IEEE Internet of Things Journal Reviewer, IEEE Transactions on Cybernetics Reviewer, IEEE Transactions on Mobile Computing Reviewer, IEEE Transactions on Neural Networks and Learning Systems Reviewer, IEEE Transactions on Artificial Intelligence Reviewer, IEEE Transactions on Multimedia Reviewer, IEEE Transactions on Geoscience and Remote Sensing Reviewer, IEEE Transactions on Vehicular Technology Reviewer, IEEE Robotics and Automation Reviewer, IEEE Wireless Communications Magazine Reviewer, IEEE Systems Journal Reviewer, ACM Transactions on Spatial Algorithm and Systems, Pattern Recognition Reviewer, International Journal of Distributed Sensor Network Reviewer, Elsivier - Information Fusion Reviewer, Elsivier - Knowledge-based Systems Reviewer, Elsivier - Neurocomputing Reviewer, Elsivier - Energy and Buildings  </description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://marsyang.github.io/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.github.io/template/</guid>
+      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
