@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AIoT Research on Jianfei Yang</title>
-    <link>https://marsyang.github.io/categories/aiot-research/</link>
+    <link>https://marsrocky.github.io/marsyang/categories/aiot-research/</link>
     <description>Recent content in AIoT Research on Jianfei Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marsyang.github.io/categories/aiot-research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marsrocky.github.io/marsyang/categories/aiot-research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>https://marsyang.github.io/publications/</link>
+      <link>https://marsrocky.github.io/marsyang/publications/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://marsyang.github.io/publications/</guid>
+      <guid>https://marsrocky.github.io/marsyang/publications/</guid>
       <description>For a full list of publications, please visit my Google Scholar.
   Book Chapters  Deep Learning and Unsupervised Domain Adaptation for WiFi-based Sensing
 Jianfei Yang, Han Zou, Lihua Xie and Costas J. Spanos

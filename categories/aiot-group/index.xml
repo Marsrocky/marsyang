@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AIoT Group on Jianfei Yang</title>
-    <link>https://marsyang.github.io/categories/aiot-group/</link>
+    <link>https://marsrocky.github.io/marsyang/categories/aiot-group/</link>
     <description>Recent content in AIoT Group on Jianfei Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marsyang.github.io/categories/aiot-group/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marsrocky.github.io/marsyang/categories/aiot-group/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Group</title>
-      <link>https://marsyang.github.io/group/</link>
+      <link>https://marsrocky.github.io/marsyang/group/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://marsyang.github.io/group/</guid>
+      <guid>https://marsrocky.github.io/marsyang/group/</guid>
       <description> I am interesed to supervise the following PhD topics:
  Deep learning for smart sensing and affective computing Transfer learning and domain adaptation algorithms for robust data-efficient sensing Multimodal learning for IoT sensor fusion and their applications  The students should have basic knowledge on statistic learning and deep learning, and be familiar with Python programming. Pytorch library is highly preferred in our research team.
  Ph.D. Students  Wang Dazhuo (WiFi-based Human Activity Recognition Across Environments) Huang He (WiFi-based Sensing and Localization) Qian Hanjie (AI-aided Structural Health Monitoring) Cao Haozhi (Domain Adaptation for Multimodal Semantic Segmentation)   MSc Research Projects  Deng Lang - WiFi and Camera Fusion for Smart Sensing Zhou Yunjiao - Multimodal Learning for Road Segmentation in Autonomous Driving Yang Zhiyuan - Point Cloud Model Compression Shi Mengqi - Adversarial Learning for Multimodal Segmentation Hu Jiaxing - WiFi-based Respiration Detection Lyu Qi - Real-time WiFi Sensing System   Undergraduate (Final Year Project)  Chen Xinyan (Multimodal Learning) Mao Jiangtian (Data-efficient Learning for Smart Sensing) Pan Xingmeng (Visualization Dashboard for Smart Sensing)  </description>
