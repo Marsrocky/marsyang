@@ -13,9 +13,9 @@
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://marsyang.site/group/</guid>
-      <description> I am interesed to supervise the following PhD topics:
+      <description>I am interesed to supervise the following PhD topics:
  Deep learning for smart sensing and affective computing Transfer learning and domain adaptation algorithms for robust data-efficient sensing Multimodal learning for IoT sensor fusion and their applications  The students should have basic knowledge on statistic learning and deep learning, and be familiar with Python programming. Pytorch library is highly preferred in our research team.
- Ph.D. Students  Wang Dazhuo (WiFi-based Human Activity Recognition Across Environments) Huang He (WiFi-based Sensing and Localization) Qian Hanjie (AI-aided Structural Health Monitoring) Cao Haozhi (Domain Adaptation for Multimodal Semantic Segmentation)   MSc Research Projects  Deng Lang - WiFi and Camera Fusion for Smart Sensing Zhou Yunjiao - Multimodal Learning for Road Segmentation in Autonomous Driving Yang Zhiyuan - Point Cloud Model Compression Shi Mengqi - Adversarial Learning for Multimodal Segmentation Hu Jiaxing - WiFi-based Respiration Detection Lyu Qi - Real-time WiFi Sensing System   Undergraduate (Final Year Project)  Chen Xinyan (Multimodal Learning) Mao Jiangtian (Data-efficient Learning for Smart Sensing) Pan Xingmeng (Visualization Dashboard for Smart Sensing)  </description>
+ Ph.D. Students  Wang Dazhuo (WiFi-based Human Activity Recognition Across Environments) Qian Hanjie (AI-aided Structural Health Monitoring) Huang He (WiFi-based Sensing and Localization) Cao Haozhi (Domain Adaptation for Multimodal Semantic Segmentation)   MSc Research Projects  Deng Lang - WiFi and Camera Fusion for Smart Sensing Zhou Yunjiao - Multimodal Learning for Road Segmentation in Autonomous Driving Yang Zhiyuan - Point Cloud Model Compression Shi Mengqi - Adversarial Learning for Multimodal Segmentation Hu Jiaxing - WiFi-based Respiration Detection Lyu Qi - Real-time WiFi Sensing System   Undergraduate (Final Year Project)  Chen Xinyan (Multimodal Learning) Mao Jiangtian (Data-efficient Learning for Smart Sensing)   Alumni  Dr.</description>
     </item>
     
     <item>
@@ -39,6 +39,17 @@ Jianfei Yang, Xinyan Chen, Han Zou, Dazhuo Wang, Lihua Xie</description>
       <guid>https://marsyang.site/award/</guid>
       <description>  I am keen on participating academic and industrial AI challenges to deal with theoretical or real-world data problems.
   Awards in Academia  First place, ICCV-21 Masked Face Recognition Challenge First place, IEEE CVPR 2019 UG2+ Challenge - Zero-shot Detection in Rain (Award: $60K) First place, PHI-Net Challenge by Pacific Earthquake Engineering Research Center, Los Angelos, USA Third place, IEEE CVPR 2020 EmotionNet Challenge First place, ACM ICMI 2018 Emotion Recognition Challenge, Colorado, USA NTU Presidential Postdoctoral Fellowship Award (12/1000+) NTU EEE Best Thesis Award (2/400+)  Awards for Industrial Challenges  First place, Alibaba A-tech Challenge 2021 - Transaction Fraud Detection First place, DIGIX Global AI Challenge - Product Image Retrieval (Award: $35K) First place, Xinye Cup 2021 - Intelligent Retail AI Solution (Award: $10K) First place, JD Global Data Challenge 2017 - Livestock face recognition (Award: $100K) First place, HUAWEI Garbage Recognition Challenge (Award: $35K) First place, Buildathon of Singapore by Ministry of Education Second place, Microsoft Imagine Cup 2017 (2/782) First place, China Mobile Internet of Things Hackathons (Award: $15K) Third place, National AI Challenge - Person Re-identification (Award: $35K) First place, Microsoft Beauty of Programming (BoP-16) Challenge by Microsoft Research Asia/IEEE (1/20000+) First place, Humanoid Robotics Hackathon by ALDEBARAN  </description>
+    </item>
+    
+    <item>
+      <title>Friends</title>
+      <link>https://marsyang.site/friends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.site/friends/</guid>
+      <description>Seniors  I am honored to have some senior friends who guide me or lend me a hand selflessly.
+ Dr. Han Zou - Senior Scientist, Meta Dr. Zhenghua Chen - PI, Lab Head, A*star Dr. Chen Wang - Project Scientist, CMU    Juniors  I am very happy to help my smart juniors, and grow up with them.
+ Dr. Yuecong Xu - Scientist, A*star Kai Wang - Ph.</description>
     </item>
     
     <item>
