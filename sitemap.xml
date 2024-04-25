@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/aiot-group/</loc>
+    <loc>https://marsyang.site/categories/aiot-group/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/aiot-research/</loc>
+    <loc>https://marsyang.site/categories/aiot-research/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://marsyang.site/categories/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://marsyang.site/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/group/</loc>
+    <loc>https://marsyang.site/group/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>https://marsyang.site/publications/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portrait/</loc>
+    <loc>https://marsyang.site/portrait/</loc>
   </url><url>
-    <loc>http://localhost:1313/award/</loc>
+    <loc>https://marsyang.site/award/</loc>
   </url><url>
-    <loc>http://localhost:1313/friends/</loc>
+    <loc>https://marsyang.site/friends/</loc>
   </url><url>
-    <loc>http://localhost:1313/patents/</loc>
+    <loc>https://marsyang.site/patents/</loc>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://marsyang.site/research/</loc>
   </url><url>
-    <loc>http://localhost:1313/services/</loc>
+    <loc>https://marsyang.site/services/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://marsyang.site/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/template/</loc>
+    <loc>https://marsyang.site/template/</loc>
   </url>
 </urlset>
