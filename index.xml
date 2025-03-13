@@ -48,7 +48,7 @@
       <link>https://marsyang.site/friends/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://marsyang.site/friends/</guid>
-      <description>Seniors I am honored to have seniors who lend me a hand selflessly.&#xA;Dr. Han Zou - Research Scientist, Meta Dr. Zhenghua Chen - PI, Lab Head, A*star Dr. Kexin Guo - Associate Prof, BUAA Dr. Chen Wang - Assistant Prof, University at Buffalo Dr. Chris Xiaoxuan Lu - Associate Prof, UCL Juniors I am very happy to help my smart juniors, and grow up with them.&#xA;Dr. Yuecong Xu - Lecturer, NUS Kai Wang - AISG Ph.</description>
+      <description>Seniors I am honored to have seniors who lend me a hand selflessly.&#xA;Dr. Han Zou - Research Scientist, Meta Dr. Zhenghua Chen - PI, Lab Head, A*star Dr. Kexin Guo - Associate Prof, BUAA Dr. Chen Wang - Assistant Prof, University at Buffalo Dr. Chris Xiaoxuan Lu - Associate Prof, UCL Juniors I am very happy to help my smart juniors, and grow up with them.&#xA;Dr. Yuecong Xu - Lecturer, NUS Dr.</description>
     </item>
     <item>
       <title>Patents</title>
@@ -62,7 +62,7 @@
       <link>https://marsyang.site/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://marsyang.site/research/</guid>
-      <description>Research Interests My research mainly focuses on Physical AI, where AI enables physical systems—such as robotics, IoT, and industrial systems—to perceive, understand, and interact with the physical world. Broadly speaking, I study how AI models empower Artificial Intelligence of Things (AIoT) edge devices to sense the environment (i.e. Mutimodal AIoT Sensing), how AI models are efficiently deployed in resource-restrained environments (i.e. Efficient AI), how multi-modal IoT data can be represented to support human-machine interaction via large language models (i.</description>
+      <description>Research Interests My research mainly focuses on Physical AI, where AI enables physical systems—such as robotics, IoT, and embodied agents—to perceive, reason, and interact with the real world. Broadly speaking, I study how AI models enhance robotic perception and decision-making with multimodal sensor inputs (i.e. Multimodal AI, LLM, and VLA), how robots can personalize their behavior by understanding human states and interactions (i.e. Human-Centered Embodied AI), how foundation models can be efficiently deployed on edge devices to support real-time robotic perception and control (i.</description>
     </item>
     <item>
       <title>Services</title>
