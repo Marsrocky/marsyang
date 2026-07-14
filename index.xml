@@ -13,7 +13,7 @@
       <link>https://marsyang.site/group/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://marsyang.site/group/</guid>
-      <description>Open Positions I am hiring Ph.D. students (full scholarship) and visiting students (CSC or self-funded) regarding the following research topics:&#xA;Embodied AI: perception and action models for robotics Multimodal AI: large models (VLM/VLA) for robotics TinyML: edge AI models for robotics The candidates are expected to have solid backgrounds on machine learning, deep learning or embodied AI. Please drop an email to me with the title &amp;ldquo;PhD Application + [Name]&amp;rdquo;.</description>
+      <description>For latest info, please refer to the Lab Page.&#xA;Open Positions I am hiring Ph.D. students (full scholarship) and visiting students (CSC or self-funded) regarding the following research topics:&#xA;Embodied AI: perception and action models for robotics Multimodal AI: large models (VLM/VLA) for robotics TinyML: edge AI models for robotics The candidates are expected to have solid backgrounds on machine learning, deep learning or embodied AI. Please drop an email to me with the title &amp;ldquo;PhD Application + [Name]&amp;rdquo;.</description>
     </item>
     <item>
       <title>Publications</title>
@@ -62,7 +62,7 @@
       <link>https://marsyang.site/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://marsyang.site/research/</guid>
-      <description>Research Interests My research mainly focuses on Physical AI, where AI enables physical systems—such as robotics, IoT, and embodied agents—to perceive, reason, and interact with the real world. Broadly speaking, I study how AI models enhance robotic perception and decision-making with multimodal sensor inputs (i.e. Multimodal AI, LLM, and VLA), how robots can personalize their behavior by understanding human states and interactions (i.e. Human-Centered Embodied AI), how foundation models can be efficiently deployed on edge devices to support real-time robotic perception and control (i.</description>
+      <description>My main research interests are focused on physical AI, organized into four interconnected directions:&#xA;Reliable Robot Learning We develop robust and efficient learning methods for manipulation and humanoid control, enabling robots to adapt to disturbances, learn from execution feedback, and operate reliably in dynamic environments.&#xA;Human–Robot Interaction We study how robots can understand human intentions, attention, and natural instructions to collaborate effectively and recognize ambiguity or insufficient information.&#xA;Multimodal Robot Perception We integrate vision, LiDAR, mmWave radar, WiFi, and other sensing modalities, allowing robots to understand humans, objects, and affordances in complex real-world environments.</description>
     </item>
     <item>
       <title>Services</title>
